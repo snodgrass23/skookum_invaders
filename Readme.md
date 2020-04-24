@@ -1,6 +1,6 @@
 # Skookum Invadors
 
-[play game](http://skookum.github.io/skookum_invaders)
+[play game](https://snodgrass23.github.io/skookum_invaders/)
 
 ## Built On:
 
